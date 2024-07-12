@@ -4,5 +4,5 @@ Consultation-Green by DarthWiader
 Testimony-Creamy by Phantom.
 Consultation-Creamy is a combination of the two above concepts.
 
-Speech bubbles - (1500ms duration, 1050ms in editor. use [#fb110])
+Speech bubbles - (1500ms duration, 1100ms in editor. use [#fb110])
 Gotcha! - from Apollo Justice: Ace Attorney Trilogy (2024)
